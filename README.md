@@ -102,7 +102,8 @@ musix-react-app/
 ---
 
 ## 🖼️ Screenshots (Optional)
-_Add some app screenshots here after UI is ready_
+<img width="378" height="806" alt="image" src="https://github.com/user-attachments/assets/f40373be-2b02-40ed-b7a0-be98c692290b" />
+
 
 ---
 
