@@ -104,6 +104,37 @@ musix-react-app/
 ## 🖼️ Screenshots (Optional)
 <img width="378" height="806" alt="image" src="https://github.com/user-attachments/assets/f40373be-2b02-40ed-b7a0-be98c692290b" />
 
+---
+🌐 Deployment
+
+Your app can be easily deployed to any modern hosting platform such as Vercel, Netlify, or GitHub Pages.
+
+🔗 Live Demo
+
+[👉 Musix React App — Live Deployment](https://musix-react.netlify.app/)
+
+🚀 Deploy on Vercel
+
+Push your project to a GitHub repository.
+
+Go to Vercel
+.
+
+Import your GitHub repository.
+
+Click Deploy — Vercel will automatically build and host your app.
+
+🌍 Alternative: Deploy on Netlify
+
+Run:
+
+npm run build
+
+
+Drag and drop the dist/ folder into Netlify Drop
+.
+
+Or connect your GitHub repo and enable Continuous Deployment.
 
 ---
 
